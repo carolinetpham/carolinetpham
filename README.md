@@ -8,9 +8,8 @@
 - **Software/Tools:** Figma, VS Code, Jira, Git, GitHub, Docker
 - **OS:** Mac, Window, Linux
 
-## Currently Working On... 👩🏻‍💻
-- **PetFetch:** *CS 3200 - Introduction to Databases* Final Project
-  - Using Python, MySQL, Streamlit & Flask
+## Currently Learning at Northeastern University... 👩🏻‍💻
+- *CS 4550 - Web Development*
 
 ## Connect with me! 🧩
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caroline-t-pham/)
