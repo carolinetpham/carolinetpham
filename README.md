@@ -10,6 +10,7 @@
 
 ## Currently Learning at Northeastern University... 👩🏻‍💻
 - *CS 4550 - Web Development*
+    - TypeScript, React, Bootstrap, DOM, and more :)
 
 ## Connect with me! 🧩
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caroline-t-pham/)
