@@ -10,7 +10,7 @@
 
 ## Currently Learning at Northeastern University... 👩🏻‍💻
 - *CS 4550 - Web Development*
-    - TypeScript, React, Bootstrap, DOM, and more :) 
+    - TypeScript, React, Bootstrap, Redux, and more :) 
 - *ARTF 1250 - Designing Interactive Experiences*
     - Developing personas, user stories, and more!  
 
