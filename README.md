@@ -1,5 +1,5 @@
 ## Hi, I'm Caroline 🪴
-- I’m a Computer Science and Design student interested in front-end development, web development, and UI/UX Design!
+- I’m a Computer Science and Design student interested in front-end development and UI/UX Design!
 - *Pronouns: she/her/hers :)*
 
 ## Tech Stack 💻
@@ -8,11 +8,9 @@
 - **Software/Tools:** Figma, VS Code, Jira, Git, GitHub, Docker
 - **OS:** Mac, Window, Linux
 
-## Currently Learning at Northeastern University... 👩🏻‍💻
-- *CS 4550 - Web Development*
-    - TypeScript, React, Bootstrap, Redux, and more :) 
-- *ARTF 1250 - Designing Interactive Experiences*
-    - Developing personas, user stories, and more!  
+## Currently... 👩🏻‍💻
+- *UX Design Certificate*
+    - Currently enrolled in Google's UX Design certificate program.
 
 ## Connect with me! 🧩
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caroline-t-pham/)
