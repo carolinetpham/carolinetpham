@@ -9,8 +9,8 @@
 - **OS:** Mac, Window, Linux
 
 ## Currently... 👩🏻‍💻
-- *UX Design Certificate*
-    - Currently enrolled in Google's UX Design certificate program.
+- *Caroline's Desktop*
+    - Revamping my personal portfolio! 
 
 ## Connect with me! 🧩
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caroline-t-pham/)
