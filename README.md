@@ -9,8 +9,7 @@
 - **OS:** Mac, Window, Linux
 
 ## Currently... 👩🏻‍💻
-- *Caroline's Desktop*
-    - Revamping my personal portfolio! 
+- Software Engineer Co-op at Optum
 
 ## Connect with me! 🧩
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caroline-t-pham/)
