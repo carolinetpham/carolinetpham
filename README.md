@@ -1,5 +1,5 @@
 ## Hi, I'm Caroline 🪴
-- I’m a Computer Science and Design student interested in front-end development and UI/UX Design!
+- I’m a Computer Science and Design student interested in ux/front-end development and UI/UX Design!
 - *Pronouns: she/her/hers :)*
 
 ## Tech Stack 💻
@@ -9,7 +9,7 @@
 - **OS:** Mac, Window, Linux
 
 ## Currently... 👩🏻‍💻
-- Software Engineer Co-op at Optum
+- Software Engineer Co-op at Optum 
 
 ## Connect with me! 🧩
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/caroline-t-pham/)
