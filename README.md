@@ -42,6 +42,9 @@
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </a>
+<a href="https://vega.github.io/vega-lite/" target="_blank">
+    <img src="https://img.shields.io/badge/-Vega--Lite-4D4D4D?style=flat-square&logo=vega&logoColor=white">
+</a>
 <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
 </a>
