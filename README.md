@@ -1,5 +1,5 @@
 ## Hi, I'm Caroline 🪴
-- UX/Front-end Engineer studying Computer Science and UI/UX Design at Northeastern University. 
+- UX/Front-end Engineer who wants to blend technical and design skills to **prioritize** the **user**
 - *Pronouns: she/her/hers :)*
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-t-pham/)
 &nbsp;
