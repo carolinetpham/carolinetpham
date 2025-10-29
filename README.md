@@ -8,13 +8,13 @@
 
 ---
 
-## 🌱 About Me
+## About Me
 - CS + Design @ Northeastern University  
 - Blending tech and design to prioritize the user 
 
 ---
 
-## 💻 Some Tech I *kinda* Know (maybe) 🙃
+## Some Tech I *kinda* Know (maybe) 🙃
 
 <div align="left">
 
@@ -34,14 +34,14 @@
 
 ---
 
-## 📊 Language Breakdown
+## Language Breakdown 📊
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinetpham&layout=compact&langs_count=8&theme=radical&hide_title=true&hide_border=true&card_width=420" alt="Top languages by %"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/caroline-t-pham/">
     <img src="https://img.shields.io/badge/LinkedIn-caroline--t--pham-9BB58A?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
