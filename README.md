@@ -7,7 +7,7 @@
 
 ---
 
-## Some Tech I *kinda* Know (maybe) 🙃
+## Some tech I know 🙃
 <p align="left">
   <strong>Languages:</strong><br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
@@ -55,7 +55,7 @@
 
 ---
 
-## Connect With Me
+## Connect With Me 🧩
 <p align="center">
   <a href="https://www.linkedin.com/in/caroline-t-pham/">
     <img src="https://img.shields.io/badge/LinkedIn-caroline--t--pham-9BB58A?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
