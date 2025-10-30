@@ -1,12 +1,9 @@
 <p align="center">
   <img width="100%" src="assets/book-header.svg" alt="header"/>
 </p>
-
----
-
-## About Me
-- CS + Design @ Northeastern University  
-- Blending tech and design to prioritize the user 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=5A544B&center=true&vCenter=true&width=360&lines=UX+%2F+Front-End+Engineer" alt="typing: UX / Front-End Engineer" />
+</p>
 
 ---
 
