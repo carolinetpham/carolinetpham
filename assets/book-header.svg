@@ -1,14 +1,13 @@
 <!-- assets/book-header.svg -->
-<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1200" height="180" viewBox="0 0 1200 180"
+  xmlns="http://www.w3.org/2000/svg">
   <!-- background -->
   <rect width="1200" height="180" fill="#9BB58A"/>
-
   <!-- Title/Subtitle -->
   <g font-family="Poppins, 'Josefin Sans', system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#5A544B">
     <text x="220" y="82" font-size="36" font-weight="700">hi, i'm caroline</text>
     <text x="220" y="120" font-size="18" opacity="0.9">cat person 🐾 · tea enthusiast 🍵 · book lover 📚</text>
   </g>
-
   <!-- BOOK -->
   <g transform="translate(90,25)">
     <!-- cover & pages -->
@@ -16,8 +15,6 @@
     <rect x="8" y="8" rx="8" ry="8" width="100" height="120" fill="#F7F5EE" stroke="#5A544B" stroke-width="1.5"/>
     <rect x="14" y="14" rx="4" ry="4" width="46" height="108" fill="#EDE7DC" stroke="#C7BFB3" stroke-width="1"/>
     <rect x="60" y="14" rx="4" ry="4" width="46" height="108" fill="#EDE7DC" stroke="#C7BFB3" stroke-width="1"/>
-
-    <!-- lines -->
     <g stroke="#C7BFB3" stroke-width="0.8" opacity="0.55">
       <line x1="18" y1="30" x2="56" y2="30"/>
       <line x1="18" y1="44" x2="56" y2="44"/>
@@ -26,36 +23,81 @@
       <line x1="18" y1="86" x2="56" y2="86"/>
       <line x1="18" y1="100" x2="56" y2="100"/>
     </g>
-
-    <!-- flipping page -->
-    <g transform="translate(60,14)">
-      <rect id="flip" x="0" y="0" width="46" height="108" rx="4" ry="4" fill="#EDE7DC" stroke="#C7BFB3" stroke-width="1">
-        <!-- rotate around the left spine (0,0) -->
-        <animateTransform attributeName="transform"
-          type="rotate"
-          dur="3.6s"
-          repeatCount="indefinite"
-          values="0 0 0; -170 0 0; 0 0 0"
+    <g stroke="#C7BFB3" stroke-width="0.8" opacity="0.55">
+      <line x1="64" y1="30" x2="102" y2="30"/>
+      <line x1="64" y1="44" x2="102" y2="44"/>
+      <line x1="64" y1="58" x2="102" y2="58"/>
+      <line x1="64" y1="72" x2="102" y2="72"/>
+      <line x1="64" y1="86" x2="102" y2="86"/>
+      <line x1="64" y1="100" x2="102" y2="100"/>
+    </g>
+    
+    <!-- FLIPPING PAGE -->
+    <g>
+      <rect x="60" y="14" width="46" height="108" rx="4" ry="4"
+            fill="#5A544B">
+        <animate attributeName="opacity"
+          values="0;0.15;0" dur="2.4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="60" y="14" width="46" height="108" rx="4" ry="4"
+            fill="#EDE7DC" stroke="#C7BFB3" stroke-width="1">
+        <animate attributeName="x"
+          values="60; 14; 14"
+          dur="2.4s" repeatCount="indefinite"
           keyTimes="0; 0.5; 1"
           calcMode="spline"
-          keySplines=".25 .1 .25 1; .25 .1 .25 1"/>
+          keySplines=".42 0 .58 1; 0 0 0 0"/>
+        <animate attributeName="width"
+          values="46; 2; 46"
+          dur="2.4s" repeatCount="indefinite"
+          keyTimes="0; 0.5; 1"
+          calcMode="spline"
+          keySplines=".42 0 .58 1; .42 0 .58 1"/>
         <animate attributeName="opacity"
-          dur="3.6s"
-          values="1;0.85;1"
-          keyTimes="0;0.5;1"
-          repeatCount="indefinite"/>
+          values="1; 0.85; 1"
+          dur="2.4s" repeatCount="indefinite"/>
       </rect>
-
-      <!-- soft shadow under the flipping page -->
-      <rect x="2" y="4" width="42" height="100" rx="4" ry="4" fill="#5A544B" opacity="0.08">
-        <animate attributeName="opacity" values="0.08;0.18;0.08" dur="3.6s" repeatCount="indefinite"/>
-      </rect>
+      
+      <!-- page lines on flipping page -->
+      <g stroke="#C7BFB3" stroke-width="0.8" opacity="0.55">
+        <line x1="64" y1="30" x2="102" y2="30">
+          <animate attributeName="x1" values="64; 16; 16" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; 0 0 0 0"/>
+          <animate attributeName="x2" values="102; 16; 56" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; .42 0 .58 1"/>
+          <animate attributeName="opacity" values="0.55; 0; 0.55" dur="2.4s" repeatCount="indefinite"/>
+        </line>
+        <line x1="64" y1="44" x2="102" y2="44">
+          <animate attributeName="x1" values="64; 16; 16" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; 0 0 0 0"/>
+          <animate attributeName="x2" values="102; 16; 56" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; .42 0 .58 1"/>
+          <animate attributeName="opacity" values="0.55; 0; 0.55" dur="2.4s" repeatCount="indefinite"/>
+        </line>
+        <line x1="64" y1="58" x2="102" y2="58">
+          <animate attributeName="x1" values="64; 16; 16" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; 0 0 0 0"/>
+          <animate attributeName="x2" values="102; 16; 56" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; .42 0 .58 1"/>
+          <animate attributeName="opacity" values="0.55; 0; 0.55" dur="2.4s" repeatCount="indefinite"/>
+        </line>
+        <line x1="64" y1="72" x2="102" y2="72">
+          <animate attributeName="x1" values="64; 16; 16" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; 0 0 0 0"/>
+          <animate attributeName="x2" values="102; 16; 56" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; .42 0 .58 1"/>
+          <animate attributeName="opacity" values="0.55; 0; 0.55" dur="2.4s" repeatCount="indefinite"/>
+        </line>
+        <line x1="64" y1="86" x2="102" y2="86">
+          <animate attributeName="x1" values="64; 16; 16" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; 0 0 0 0"/>
+          <animate attributeName="x2" values="102; 16; 56" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; .42 0 .58 1"/>
+          <animate attributeName="opacity" values="0.55; 0; 0.55" dur="2.4s" repeatCount="indefinite"/>
+        </line>
+        <line x1="64" y1="100" x2="102" y2="100">
+          <animate attributeName="x1" values="64; 16; 16" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; 0 0 0 0"/>
+          <animate attributeName="x2" values="102; 16; 56" dur="2.4s" repeatCount="indefinite" keyTimes="0; 0.5; 1" calcMode="spline" keySplines=".42 0 .58 1; .42 0 .58 1"/>
+          <animate attributeName="opacity" values="0.55; 0; 0.55" dur="2.4s" repeatCount="indefinite"/>
+        </line>
+      </g>
     </g>
   </g>
-
   <!-- subtle speckles -->
   <g fill="#5A544B" opacity="0.05">
-    <circle cx="1120" cy="30" r="2"/><circle cx="1080" cy="60" r="1.5"/>
-    <circle cx="1030" cy="40" r="1.2"/><circle cx="1060" cy="90" r="1.8"/>
+    <circle cx="1120" cy="30" r="2"/>
+    <circle cx="1080" cy="60" r="1.5"/>
+    <circle cx="1030" cy="40" r="1.2"/>
+    <circle cx="1060" cy="90" r="1.8"/>
   </g>
 </svg>
