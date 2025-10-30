@@ -57,11 +57,11 @@
 
 ## Connect With Me 🧩
 <p align="center">
-  <a href="https://www.linkedin.com/in/caroline-t-pham/">
+  <a href="https://www.linkedin.com/in/caroline-t-pham/" target=_blank>
     <img src="https://img.shields.io/badge/LinkedIn-caroline--t--pham-9BB58A?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:carolinetpham@outlook.com">
+  <a href="mailto:carolinetpham@outlook.com" target=_blank>
     <img src="https://img.shields.io/badge/Email-carolinetpham%40outlook.com-9BB58A?style=for-the-badge&logo=minutemailer&logoColor=ffffff" alt="Email"/>
   </a>
 </p>
