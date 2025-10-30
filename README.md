@@ -1,9 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=9BB58A&height=120&section=header&text=hi,+i'm+caroline&fontColor=F7F5EE&font=Poppins&animation=fadeIn" alt="header"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1200&color=5A544B&center=true&vCenter=true&width=520&lines=cat+person+🐾+|+tea+enthusiast+🍵+|+book+lover+📚;UX+%2F+Front-End+Engineer" alt="typed intro" />
+  <img width="100%" src="assets/book-header.svg" alt="header"/>
 </p>
 
 ---
@@ -15,22 +11,43 @@
 ---
 
 ## Some Tech I *kinda* Know (maybe) 🙃
+<p align="left">
+  <strong>Languages:</strong><br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="SQL"/>
+</p>
 
-<div align="left">
+<p align="left">
+  <strong>Libraries:</strong><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=ffffff" alt="Streamlit"/>
+</p>
 
-**Languages:**  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=fff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=fff"/>
+<p align="left">
+  <strong>Tools:</strong><br/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff" alt="Jira"/>
+</p>
 
-**Frameworks / Libraries:**  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff"/> <img src="https://img.shields.io/badge/Tailwind-94A3B8?style=flat-square&logo=tailwindcss&logoColor=fff"/> <img src="https://img.shields.io/badge/Bootstrap-7D5BA6?style=flat-square&logo=bootstrap&logoColor=fff"/> <img src="https://img.shields.io/badge/Flask-5A544B?style=flat-square&logo=flask&logoColor=fff"/> <img src="https://img.shields.io/badge/Streamlit-C08497?style=flat-square&logo=streamlit&logoColor=fff"/> <img src="https://img.shields.io/badge/Vega--Lite-6E756A?style=flat-square&logo=vega&logoColor=fff"/>
-
-**Tools & Platforms:**  
-<img src="https://img.shields.io/badge/Figma-9BB58A?style=flat-square&logo=figma&logoColor=fff"/> <img src="https://img.shields.io/badge/VS%20Code-7B9E87?style=flat-square&logo=visualstudiocode&logoColor=fff"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-2F2F2F?style=flat-square&logo=github&logoColor=fff"/> <img src="https://img.shields.io/badge/Docker-7FA6A1?style=flat-square&logo=docker&logoColor=fff"/> <img src="https://img.shields.io/badge/Jira-6C8572?style=flat-square&logo=jira&logoColor=fff"/>
-
-**OS:**  
-<img src="https://img.shields.io/badge/macOS-5A544B?style=flat-square&logo=apple&logoColor=fff"/> <img src="https://img.shields.io/badge/Windows-A8BCA1?style=flat-square&logo=windows&logoColor=fff"/> <img src="https://img.shields.io/badge/Linux-C7AFA3?style=flat-square&logo=linux&logoColor=000"/>
-
-</div>
+<p align="left">
+  <strong>OS:</strong><br/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=ffffff" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"/>
+</p>
 
 ---
 
