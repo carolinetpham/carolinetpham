@@ -11,7 +11,7 @@ I’m a fourth-year CS and Design student who loves all things frontend, design,
 > Right now, I’m focused on building my Next.js, TypeScript, and Figma skills while exploring how design and technology come together to truly ***prioritize the user experience***.
 
 ## Language Breakdown 📊
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinetpham&layout=compact&langs_count=8&theme=radical&hide_title=true&hide_border=true&card_width=420" alt="Top languages by %"/>
 </p>
 
