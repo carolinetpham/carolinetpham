@@ -8,13 +8,21 @@
 ---
 ## About 👩🏻‍💻
 I’m a fourth-year CS and Design student who loves all things frontend, design, and HCI. I’m passionate about creating interfaces that feel effortless to use and meaningful to interact with.
-> Right now, I’m focused on building my Next.js, TypeScript, and Figma skills while exploring how design and technology come together to truly ***prioritize the user experience***.
+> Currently getting better at React, Next.js, and TypeScript, and learning how to turn good design into real, usable UI
 
 ## Language Breakdown 📊
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinetpham&layout=compact&langs_count=8&theme=radical&hide_title=true&hide_border=true&card_width=420" alt="Top languages by %"/>
-</p>
-
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="assets/cat-typing-cropped.gif" width="250" alt="Cat typing furiously" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinetpham&layout=compact&langs_count=8&theme=radical&hide_title=true&hide_border=true&card_width=420" alt="Top languages by %" />
+    </td>
+  </tr>
+</table>
+</div>
 ---
 
 ## Connect With Me 🧩
