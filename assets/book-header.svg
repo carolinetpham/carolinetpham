@@ -5,7 +5,7 @@
   <rect width="1200" height="180" fill="#9BB58A"/>
   <!-- Title/Subtitle -->
   <g font-family="Poppins, 'Josefin Sans', system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#5A544B">
-    <text x="220" y="82" font-size="36" font-weight="700">hi, i'm caroline</text>
+    <text x="220" y="82" font-size="36" font-weight="700">Hi, I'm Caroline :)</text>
     <text x="220" y="120" font-size="18" opacity="0.9">cat person 🐾 · tea enthusiast 🍵 · book lover 📚</text>
   </g>
   <!-- BOOK -->
