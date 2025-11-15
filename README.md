@@ -23,6 +23,7 @@ I’m a fourth-year CS and Design student who loves all things frontend, design,
   </tr>
 </table>
 </div>
+
 ---
 
 ## Connect With Me 🧩
