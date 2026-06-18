@@ -7,7 +7,7 @@
 
 ---
 ## About 👩🏻‍💻
-I’m a fourth-year CS and Design student who loves all things frontend, design, and HCI. I’m passionate about creating interfaces that feel effortless to use and meaningful to interact with.
+UX Engineer and recent Northeastern graduate with a B.S. in Computer Science and Design who loves all things frontend, design, and HCI. I’m passionate about creating interfaces that feel effortless to use and meaningful to interact with.
 > Currently getting better at React, Next.js, and TypeScript, and learning how to turn good design into real, usable UI
 
 ## Technologies 📊
